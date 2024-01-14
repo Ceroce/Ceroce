@@ -1,6 +1,6 @@
 ## Yo? Yo! Yo.
 
-I 've been programming since a young age. These days, [people](https://www.incwo.com) even pay me for doing it.
+I 've been programming since a young age. These days, [people](https://www.diabeloop.com) even pay me for doing it.
 
 ### Swift
 
